@@ -1,12 +1,41 @@
-# Python-Workshop
+# Exploratory Data Analysis using Python Visualization Libraries
+Welcome to EDA repo, a curated collection of data‑visualization projects designed to showcase my ability to transform raw data into clear, compelling, insight‑driven visuals using the Python ecosystem.
 
-### Matplotlib
+This repository demonstrates not just technical proficiency, but also analytical thinking, visual storytelling, and end‑to‑end data exploration workflows—skills essential for analytics engineering domain.
 
-### Seaborn: 
-Distribution plots, Categorical plots, Matrix plots,grids, regression plots, working with style and color 
+### Project Purpose
+The goal of this repository is to highlight how different Python libraries can be leveraged to:
+  Explore datasets from multiple angles
+  Build intuitive and aesthetically strong visualizations
+  Communicate insights effectively
+  Compare visualization capabilities across libraries
+  Demonstrate clean, modular, reproducible code
 
-### Plotly & Cufflinks : 
-Data Visulization with plotly might not be directly visible on GitHub as it contains an interactive plots which are similar to the what we develop on Tableau or PoweBI Dashboards and it can be fully viewd on [Kaggle](https://www.kaggle.com/code/smit22shah/data-visulization-using-plotly). Here, files contains interactive boxplots,scatter plots, histogram and scatter matrix.
-                                        
-### Geographical Plotting using Plotly (Choropleth Maps) : 
-The same visulization can be viewed on [Kaggle](https://www.kaggle.com/code/smit22shah/geographical-mapping-choropleth-maps-plotly/notebook) which might not be fully visible on GitHub.
+### Tech Stack & Visualization Libraries
+This project showcases a wide range of Python tools, including:
+  Core Data Handling Libraries  :	Pandas, NumPy
+  Static Visualizations         : Matplotlib, Seaborn
+  Interactive Visualizations    : Plotly, Cufflinks
+  
+### Each notebook walks through:
+  Data loading & preprocessing ,
+  Exploratory data analysis ,
+  Multiple visualization approaches ,
+  Insight summaries
+
+### Side‑by‑side visualization comparisons
+See how the same dataset can be visualized differently using:
+  Matplotlib vs Seaborn ,
+  Static vs interactive charts ,
+  Simple vs advanced visuals
+
+### Real‑world visualization patterns
+  Heatmaps ,
+  Pair plots ,
+  Time‑series charts ,
+  Geographic maps ,
+  Interactive dashboards ,
+  Distribution & correlation visuals
+
+### [Data Visulization using Plotly and Cufflinks](https://www.kaggle.com/code/smit22shah/data-visulization-using-plotly)                                        
+### [Geographical Plotting using Plotly (Choropleth Maps)](https://www.kaggle.com/code/smit22shah/geographical-mapping-choropleth-maps-plotly/notebook) 
